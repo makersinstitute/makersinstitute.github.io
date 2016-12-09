@@ -1,10 +1,10 @@
 # Site settings
-title: Antonio Trento, theme Jeky New Age, the start Bootstrap themplate build for jekyll
-email:
-description: A jekyll template for landing pages, portfolio and blogging
+title: Makers Institute
+email: abdulazizpriatna@gmail.com
+description: 
 
-baseurl: "" # the subpath of your site, e.g. /blog/ (If you use organization leave empty)
-url: "https://makersinstitute.github.io" # the base hostname & protocol for your site
+#baseurl: "" # the subpath of your site, e.g. /blog/ (If you use organization leave empty)
+url: "https://makersinstitute.id" # the base hostname & protocol for your site
 
 #Google Ad Words Data from scripts code (using Google responsive options) and ad client
 data-ad-slot: 2973388149
